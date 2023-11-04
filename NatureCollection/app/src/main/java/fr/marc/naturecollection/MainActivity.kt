@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // test commentaire ilan //
         //Injecter le fragement dans notre boite (fragment_container)
 
         val transaction = supportFragmentManager.beginTransaction()
